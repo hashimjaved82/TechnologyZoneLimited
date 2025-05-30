@@ -1,0 +1,19 @@
+The script that does the following:
+
+1. Cleans Windows Temp files.
+2. Clears browser cache for Chrome, Edge, and Firefox.
+3. Sets up a Scheduled Task to run the script three times a day (e.g., 8:00 AM, 1:00 PM, and 6:00 PM).
+
+
+Instructions:
+1. Copy and Paste The "Path" Folder in Your "C:" Drive 
+2. Both Files Run as Administrator Once
+3. Boom Here You Go.
+
+
+
+Developer Information:
+
+Developer:		Hashim Javed
+Email:			hashim.javed82@outlook.com
+Company:		Technology Zone Limited [{(We Build Trust not only Programs)}]
